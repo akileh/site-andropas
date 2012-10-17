@@ -1,0 +1,23 @@
+[
+    {
+        "versionCode": 43,
+        "versionName": "2.0.4",
+        "date": "16.10.2012",
+        "content_en": "Fixed typos and other small stuff",
+        "content_fi": "Korjattu typoja ja muuta pientä"
+    },
+    {
+        "versionCode": 42,
+        "versionName": "2.0.4",
+        "date": "16.10.2012",
+        "content_en": "- Settings:\n  - walking speed\n  - route type\n  - route time\n  - route extra options\n- Erase \"my location\" on edit\n- Live map fixes\n- Small bug fixes",
+        "content_fi": "- Asetukset\n  - kävelynopeus\n  - reitin tyyppi\n  - reitin aikavalinta\n  - reitin lisäasetukset\n- Poista \"oma sijainti\" muokattaessa\n- Livekartan korjauksia\n- Pieniä bugikorjauksia"
+    },
+    {
+        "versionCode": 41,
+        "versionName": "2.0.3",
+        "date": "15.10.2012",
+        "content_en": "- Route list earlier/now/later buttons\n- Fix crash on more options rotate",
+        "content_fi": "- Reittilistan aikaisemmin/nyt/myöhemmin-napit\n- Korjattu kaatuminen \"lisää asetuksia\"-napissa kääntäessä"
+    }
+]
