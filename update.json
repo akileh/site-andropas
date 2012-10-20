@@ -2,9 +2,9 @@
     {
         "versionCode": 44,
         "versionName": "2.0.6",
-        "date": "",
-        "content_en": "- Install to SD/external\n- GPS fixes for some devices\n- Stop map fixes\n- fix \"My location\" erase with 4.1/Jelly Bean\n- Stop departures and lines destinations",
-        "content_fi": "- Asennus muistikortille\n- GPS korjauksia joillekin laitteille\n- Pysäkkikartan korjauksia\n- \"Oma sijainti\" pyyhkiytyy myös 4.1/Jelly Bean:llä\n- Pysäkin lähdöissä ja linjoissa määränpää"
+        "date": "20.10.2012",
+        "content_en": "- Install to SD/external\n- GPS fixes for some devices\n- Stop map fixes\n- fix \"My location\" erase with 4.1/Jelly Bean\n- Stop departures and lines destinations\n- Lots of small fixes",
+        "content_fi": "- Asennus muistikortille\n- GPS korjauksia joillekin laitteille\n- Pysäkkikartan korjauksia\n- \"Oma sijainti\" pyyhkiytyy myös 4.1/Jelly Bean:llä\n- Pysäkin lähdöissä ja linjoissa määränpää\n- Paljon pieniä korjauksia"
     },
     {
         "versionCode": 43,
