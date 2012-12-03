@@ -4,7 +4,7 @@
         "versionName": "2.0.7",
         "date": "3.12.2012",
         "content_en": "- fix map location select\n- fix live map vehicle types\n- fix cycling map crash\n- fix disappearint routes on resume app\n- notify user when GPS/network disabled",
-        "content_fi": "- korjattu paikan valinta kartalta\n- korjattu livekartan ajoneuvojen tyyppejä\n- korjattu kaatuva pyöräilykartta\n- korjattu katovat reitit palatessa ohjelmaan\n- lisätty ilmoitus, kun paikannus/GPS ei päällä",
+        "content_fi": "- korjattu paikan valinta kartalta\n- korjattu livekartan ajoneuvojen tyyppejä\n- korjattu kaatuva pyöräilykartta\n- korjattu katovat reitit palatessa ohjelmaan\n- lisätty ilmoitus, kun paikannus/GPS ei päällä"
     },
     {
         "versionCode": 44,
