@@ -2,7 +2,7 @@
     {
         "versionCode": 50,
         "versionName": "2.0.11",
-        "date": "14.9.2013",
+        "date": "19.9.2013",
         "content_en": "- fix: tram numbers for HSL live API",
         "content_fi": "- korjaus: ratikoiden numerot HSL live API:lle"
     },
